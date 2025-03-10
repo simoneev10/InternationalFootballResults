@@ -4,7 +4,6 @@ venv/
 
 # File di dataset e output di Jupyter
 data/
-*.csv
 *.xlsx
 *.json
 
