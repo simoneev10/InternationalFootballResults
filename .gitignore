@@ -1,0 +1,22 @@
+# Cartelle di ambiente virtuale
+venv/
+.env/
+
+# File di dataset e output di Jupyter
+data/
+*.csv
+*.xlsx
+*.json
+
+# File di cache e compilati da Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File di configurazione IDE
+.vscode/
+.idea/
+
+# Risultati Jupyter Notebook
+.ipynb_checkpoints/
