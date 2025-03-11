@@ -1,4 +1,4 @@
-# Analisi delle Partite dal DataSet International Football Results
+# Analisi delle Partite dal DataSet International Football Results 💻
 
 In questo progetto, analizziamo un dataset, preso da Kaggle, contenente i risultati di partite di calcio internazionali per esplorare il ruolo del fattore campo e identificare eventuali pattern o tendenze nei risultati delle partite. Utilizzando tecniche di Data Analysis e Visualizzazione, cercheremo di rispondere a domande come:
 
@@ -6,7 +6,7 @@ In questo progetto, analizziamo un dataset, preso da Kaggle, contenente i risult
 - Quali squadre sfruttano meglio il vantaggio casalingo?
 - Esistono competizioni in cui il fattore campo è più influente?
 
-## Obiettivi del Progetto
+## Obiettivi del Progetto 🎯
 
 Gli obiettivi principali di questo progetto sono:
 
